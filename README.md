@@ -1,2 +1,2 @@
-# Bootcamp-CSS-Assignments
+# Bootcamp-CSS
 Bootcamp CSS Assignments
